@@ -26,3 +26,6 @@ local.properties
 *.keystore
 keystore.properties
 key.properties
+
+# Local release outputs
+app/release/
