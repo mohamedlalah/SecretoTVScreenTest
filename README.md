@@ -9,19 +9,28 @@ The application provides a simple remote-control-friendly interface with screen 
 Developed by **Mohamed LALAH / SecretoTools**.
 
 ---
+
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home-screen.jpeg)
+
+<p align="center">
+  <img src="screenshots/home-screen.jpeg" width="760" alt="Secreto TV Screen Test Home Screen">
+</p>
 
 ### Display Information
-![Display Information](screenshots/display-info.jpeg)
 
-### Overscan Test
-![Overscan Test](screenshots/overscan-test.jpeg)
+<p align="center">
+  <img src="screenshots/display-info.jpeg" width="680" alt="Secreto TV Screen Test Display Information">
+</p>
 
-### Gradient Test
-![Gradient Test](screenshots/gradient-test.jpeg)
+### Screen Tests
+
+<p align="center">
+  <img src="screenshots/overscan-test.jpeg" width="48%" alt="Overscan Test">
+  <img src="screenshots/gradient-test.jpeg" width="48%" alt="Gradient Test">
+</p>
+
 ---
 
 ## Features
