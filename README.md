@@ -15,20 +15,20 @@ Developed by **Mohamed LALAH / SecretoTools**.
 ### Home Screen
 
 <p align="center">
-  <img src="screenshots/home-screen.jpeg" width="760" alt="Secreto TV Screen Test Home Screen">
+  <img src="screenshots/home-screen.jpeg" width="560" alt="Secreto TV Screen Test Home Screen">
 </p>
 
 ### Display Information
 
 <p align="center">
-  <img src="screenshots/display-info.jpeg" width="680" alt="Secreto TV Screen Test Display Information">
+  <img src="screenshots/display-info.jpeg" width="560" alt="Secreto TV Screen Test Display Information">
 </p>
 
 ### Screen Tests
 
 <p align="center">
-  <img src="screenshots/overscan-test.jpeg" width="48%" alt="Overscan Test">
-  <img src="screenshots/gradient-test.jpeg" width="48%" alt="Gradient Test">
+  <img src="screenshots/overscan-test.jpeg" width="44%" alt="Overscan Test">
+  <img src="screenshots/gradient-test.jpeg" width="44%" alt="Gradient Test">
 </p>
 
 ---
