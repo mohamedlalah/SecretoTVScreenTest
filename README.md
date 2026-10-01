@@ -9,6 +9,20 @@ The application provides a simple remote-control-friendly interface with screen 
 Developed by **Mohamed LALAH / SecretoTools**.
 
 ---
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home-screen.jpeg)
+
+### Display Information
+![Display Information](screenshots/display-info.jpeg)
+
+### Overscan Test
+![Overscan Test](screenshots/overscan-test.jpeg)
+
+### Gradient Test
+![Gradient Test](screenshots/gradient-test.jpeg)
+---
 
 ## Features
 
