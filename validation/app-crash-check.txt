@@ -1,0 +1,3 @@
+Command: adb -s emulator-5554 logcat -d -b crash
+No entries referenced com.secreto.tvscreentest. The emulator buffer included historical Bluetooth process crashes unrelated to this app.
+This is a smoke-test observation, not a crash-free guarantee.

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secreto TV Screen Test</string>
+    <string name="home_subtitle">Testez facilement votre téléviseur</string>
+    <string name="brand">Un projet SecretoTools</string>
+    <string name="developer">MOHAMED LALAH</string>
+
+    <string name="dead">Pixels morts</string>
+    <string name="backlight">Rétroéclairage</string>
+    <string name="color">Couleurs</string>
+    <string name="gradient">Dégradés</string>
+    <string name="overscan">Surbalayage</string>
+    <string name="uniformity">Uniformité</string>
+    <string name="info">Infos écran</string>
+    <string name="about">À propos</string>
+
+    <string name="dead_sub">Repérez les pixels bloqués ou morts</string>
+    <string name="backlight_sub">Examinez les fuites de lumière et zones sombres</string>
+    <string name="color_sub">Testez les couleurs primaires et secondaires</string>
+    <string name="gradient_sub">Examinez les dégradés et bandes de couleur</string>
+    <string name="overscan_sub">Vérifiez si les bords sont rognés</string>
+    <string name="uniformity_sub">Examinez la luminosité et l’uniformité</string>
+    <string name="info_sub">Résolution et capacités de l’écran</string>
+    <string name="about_sub">Application et développeur</string>
+
+    <!-- Support -->
+    <string name="support">Soutenir le développeur</string>
+    <string name="support_sub">Soutenez les projets SecretoTools</string>
+    <string name="support_title">Soutenir le développeur</string>
+    <string name="support_message">Si cette application vous est utile, vous pouvez soutenir le développement des futurs projets SecretoTools.</string>
+    <string name="youtube_membership">Abonnement YouTube</string>
+    <string name="youtube_membership_sub">Rejoignez les membres de la chaîne Secretofnet</string>
+    <string name="scan_qr">Scannez ce QR code avec votre téléphone pour nous rejoindre</string>
+    <string name="support_optional">Le soutien est entièrement facultatif. Merci de soutenir le développement indépendant.</string>
+
+    <string name="home_hint">Flèches pour naviguer · OK pour ouvrir</string>
+    <string name="inspection_note">Inspection visuelle uniquement. Cette application ne diagnostique ni ne certifie votre écran.</string>
+
+    <string name="help">← / →  Précédent / suivant    •    OK  Aide    •    RETOUR  Accueil</string>
+    <string name="pattern_count">%1$d / %2$d</string>
+
+    <string name="black">Noir</string>
+    <string name="white">Blanc</string>
+    <string name="red">Rouge</string>
+    <string name="green">Vert</string>
+    <string name="blue">Bleu</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="yellow">Jaune</string>
+    <string name="very_dark">Gris très foncé</string>
+    <string name="dark_gray">Gris foncé</string>
+    <string name="medium_gray">Gris moyen</string>
+    <string name="light_gray">Gris clair</string>
+    <string name="gray50" formatted="false">Gris à 50%</string>
+    <string name="bars">Barres de couleur</string>
+
+    <string name="grad_white">Noir → Blanc</string>
+    <string name="grad_red">Noir → Rouge</string>
+    <string name="grad_green">Noir → Vert</string>
+    <string name="grad_blue">Noir → Bleu</string>
+
+    <string name="back">Retour à l’accueil</string>
+
+    <string name="window_resolution">Fenêtre de l’application</string>
+    <string name="display_resolution">Mode d’affichage indiqué par Android</string>
+    <string name="refresh_rate">Fréquence de rafraîchissement</string>
+    <string name="density">Densité / DPI logiques</string>
+    <string name="android_version">Version Android</string>
+    <string name="manufacturer">Fabricant</string>
+    <string name="model">Modèle</string>
+    <string name="hdr">Capacités HDR signalées</string>
+    <string name="unavailable">Non disponible</string>
+    <string name="hdr_none">Aucune signalée</string>
+
+    <string name="info_note">Android peut indiquer la résolution de rendu de son interface plutôt que la résolution native de la dalle du téléviseur. Par exemple, un téléviseur 4K peut indiquer 1920×1080 si Android affiche son interface en Full HD et que le téléviseur la met à l’échelle en 4K. Le HDR signalé ne garantit pas la lecture sur les services de streaming.</string>
+
+    <string name="version">Version %1$s</string>
+    <string name="developed_by">Développé par Mohamed LALAH</string>
+    <string name="about_description">Conçu pour Android TV et Google TV.</string>
+
+    <string name="privacy">Sans publicité. Sans analyse. Sans compte.\nAucune connexion Internet requise pour les tests.</string>
+
+    <string name="resolution_value">%1$d × %2$d px</string>
+    <string name="refresh_value">%1$.2f Hz</string>
+    <string name="density_value">%1$.2f× / DPI: %2$d</string>
+    <string name="safe_area" formatted="false">Repère de sécurité à 5%</string>
+
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secreto TV Screen Test</string>
+    <string name="home_subtitle">اختبر شاشة تلفازك بسهولة</string>
+    <string name="brand">أحد مشاريع SecretoTools</string>
+    <string name="developer">MOHAMED LALAH</string>
+
+    <string name="dead">البكسلات الميتة</string>
+    <string name="backlight">الإضاءة الخلفية</string>
+    <string name="color">اختبار الألوان</string>
+    <string name="gradient">التدرجات اللونية</string>
+    <string name="overscan">فحص قص الحواف</string>
+    <string name="uniformity">تجانس الشاشة</string>
+    <string name="info">معلومات الشاشة</string>
+    <string name="about">حول التطبيق</string>
+
+    <string name="dead_sub">افحص البكسلات العالقة أو الميتة</string>
+    <string name="backlight_sub">افحص تسرب الإضاءة والمناطق الداكنة</string>
+    <string name="color_sub">اختبر الألوان الأساسية والثانوية</string>
+    <string name="gradient_sub">افحص التدرجات وشرائط الألوان</string>
+    <string name="overscan_sub">تحقق مما إذا كانت حواف الشاشة مقصوصة</string>
+    <string name="uniformity_sub">افحص تجانس السطوع والشاشة</string>
+    <string name="info_sub">اعرض الدقة وإمكانات الشاشة</string>
+    <string name="about_sub">معلومات التطبيق والمطور</string>
+
+    <!-- Support -->
+    <string name="support">دعم المطور</string>
+    <string name="support_sub">ساهم في دعم مشاريع SecretoTools</string>
+    <string name="support_title">دعم المطور</string>
+    <string name="support_message">إذا كان هذا التطبيق مفيدًا لك، يمكنك دعم تطوير مشاريع SecretoTools المستقبلية.</string>
+    <string name="youtube_membership">عضوية YouTube</string>
+    <string name="youtube_membership_sub">انضم إلى عضوية قناة Secretofnet</string>
+    <string name="scan_qr">امسح رمز QR بهاتفك للانضمام</string>
+    <string name="support_optional">الدعم اختياري بالكامل. شكرًا لمساهمتك في دعم التطوير المستقل.</string>
+
+    <string name="home_hint">استخدم الأسهم للتنقل · OK للفتح</string>
+    <string name="inspection_note">للفحص البصري فقط. لا يشخّص هذا التطبيق حالة الشاشة ولا يصادق عليها.</string>
+
+    <string name="help">يسار / يمين: السابق / التالي  •  OK: المساعدة  •  رجوع: الرئيسية</string>
+    <string name="pattern_count">%1$d / %2$d</string>
+
+    <string name="black">أسود</string>
+    <string name="white">أبيض</string>
+    <string name="red">أحمر</string>
+    <string name="green">أخضر</string>
+    <string name="blue">أزرق</string>
+    <string name="cyan">سماوي</string>
+    <string name="magenta">أرجواني</string>
+    <string name="yellow">أصفر</string>
+    <string name="very_dark">رمادي داكن جدًا</string>
+    <string name="dark_gray">رمادي داكن</string>
+    <string name="medium_gray">رمادي متوسط</string>
+    <string name="light_gray">رمادي فاتح</string>
+    <string name="gray50" formatted="false">رمادي 50%</string>
+    <string name="bars">شرائط الألوان</string>
+
+    <string name="grad_white">أسود ← أبيض</string>
+    <string name="grad_red">أسود ← أحمر</string>
+    <string name="grad_green">أسود ← أخضر</string>
+    <string name="grad_blue">أسود ← أزرق</string>
+
+    <string name="back">العودة للرئيسية</string>
+
+    <string name="window_resolution">نافذة التطبيق</string>
+    <string name="display_resolution">وضع العرض الذي يبلّغ عنه Android</string>
+    <string name="refresh_rate">معدل التحديث</string>
+    <string name="density">الكثافة / DPI المنطقية</string>
+    <string name="android_version">إصدار Android</string>
+    <string name="manufacturer">الشركة المصنعة</string>
+    <string name="model">طراز الجهاز</string>
+    <string name="hdr">إمكانات HDR المبلّغ عنها</string>
+    <string name="unavailable">غير متاح</string>
+    <string name="hdr_none">لم يتم الإبلاغ عن دعم</string>
+
+    <string name="info_note">قد يعرض Android دقة رسم واجهة المستخدم بدلًا من الدقة الأصلية لشاشة التلفاز. على سبيل المثال، قد يعرض تلفاز 4K دقة 1920×1080 لأن Android يرسم واجهته بدقة Full HD، ثم يكبّر التلفاز الصورة لتملأ شاشة 4K. الإبلاغ عن دعم HDR لا يضمن تشغيل المحتوى بهذه التقنية في خدمات البث.</string>
+
+    <string name="version">الإصدار %1$s</string>
+    <string name="developed_by">تطوير Mohamed LALAH</string>
+    <string name="about_description">مصمم لأجهزة Android TV وGoogle TV.</string>
+
+    <string name="privacy">بلا إعلانات. بلا تحليلات. لا يتطلب حسابًا.\nلا يلزم اتصال بالإنترنت لاختبارات الشاشة.</string>
+
+    <string name="resolution_value">%1$d × %2$d بكسل</string>
+    <string name="refresh_value">%1$.2f هرتز</string>
+    <string name="density_value">%1$.2f× / DPI: %2$d</string>
+    <string name="safe_area" formatted="false">دليل المنطقة الآمنة 5%</string>
+
+</resources>

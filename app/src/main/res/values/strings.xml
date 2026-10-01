@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secreto TV Screen Test</string>
+    <string name="home_subtitle">Test your TV screen easily</string>
+    <string name="brand">A SecretoTools Project</string>
+    <string name="developer">MOHAMED LALAH</string>
+
+    <string name="dead">Dead Pixel Test</string>
+    <string name="backlight">Backlight Test</string>
+    <string name="color">Color Test</string>
+    <string name="gradient">Gradient Test</string>
+    <string name="overscan">Overscan Test</string>
+    <string name="uniformity">Screen Uniformity</string>
+    <string name="info">Display Info</string>
+    <string name="about">About</string>
+
+    <string name="dead_sub">Check for stuck or dead pixels</string>
+    <string name="backlight_sub">Check backlight bleeding and dark areas</string>
+    <string name="color_sub">Test primary and secondary colors</string>
+    <string name="gradient_sub">Check gradients and color banding</string>
+    <string name="overscan_sub">Check whether screen edges are cropped</string>
+    <string name="uniformity_sub">Check brightness and panel uniformity</string>
+    <string name="info_sub">View resolution and display capabilities</string>
+    <string name="about_sub">App information and developer</string>
+
+    <!-- Support -->
+    <string name="support">Support the Developer</string>
+    <string name="support_sub">Support SecretoTools projects</string>
+    <string name="support_title">Support the Developer</string>
+    <string name="support_message">If you find this app useful, you can support the development of future SecretoTools projects.</string>
+    <string name="youtube_membership">YouTube Membership</string>
+    <string name="youtube_membership_sub">Join the Secretofnet channel membership</string>
+    <string name="scan_qr">Scan this QR code with your phone to join</string>
+    <string name="support_optional">Support is completely optional. Thank you for supporting independent development.</string>
+
+    <string name="home_hint">Use the D-pad to explore · OK to open</string>
+    <string name="inspection_note">Visual inspection only. This app does not diagnose or certify your display.</string>
+
+    <string name="help">← / →  Previous / next    •    OK  Show / hide help    •    BACK  Home</string>
+    <string name="pattern_count">%1$d / %2$d</string>
+
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="yellow">Yellow</string>
+    <string name="very_dark">Very Dark Gray</string>
+    <string name="dark_gray">Dark Gray</string>
+    <string name="medium_gray">Medium Gray</string>
+    <string name="light_gray">Light Gray</string>
+    <string name="gray50" formatted="false">50% Gray</string>
+    <string name="bars">Color Bars</string>
+
+    <string name="grad_white">Black → White</string>
+    <string name="grad_red">Black → Red</string>
+    <string name="grad_green">Black → Green</string>
+    <string name="grad_blue">Black → Blue</string>
+
+    <string name="back">Back to Home</string>
+
+    <string name="window_resolution">App window</string>
+    <string name="display_resolution">Android-reported display mode</string>
+    <string name="refresh_rate">Refresh rate</string>
+    <string name="density">Density / logical DPI</string>
+    <string name="android_version">Android version</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Device model</string>
+    <string name="hdr">Reported HDR capabilities</string>
+    <string name="unavailable">Not available</string>
+    <string name="hdr_none">None reported</string>
+
+    <string name="info_note">Android may report the UI rendering resolution rather than the TV panel\'s native resolution. For example, a 4K TV may report 1920×1080 when Android renders its interface at Full HD and the TV scales it to 4K. HDR reporting does not guarantee streaming-service playback.</string>
+
+    <string name="version">Version %1$s</string>
+    <string name="developed_by">Developed by Mohamed LALAH</string>
+    <string name="about_description">Designed for Android TV and Google TV.</string>
+
+    <string name="privacy">No ads. No analytics. No account required.\nNo Internet connection required for screen tests.</string>
+
+    <string name="resolution_value">%1$d × %2$d px</string>
+    <string name="refresh_value">%1$.2f Hz</string>
+    <string name="density_value">%1$.2f× / DPI: %2$d</string>
+    <string name="safe_area" formatted="false">5% safe-area guide</string>
+
+</resources>

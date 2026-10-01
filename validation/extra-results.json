@@ -1,0 +1,74 @@
+[
+  {
+    "dead_pattern": 0,
+    "expected_rgb": [
+      0,
+      0,
+      0
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 1,
+    "expected_rgb": [
+      255,
+      255,
+      255
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 2,
+    "expected_rgb": [
+      255,
+      0,
+      0
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 3,
+    "expected_rgb": [
+      0,
+      255,
+      0
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 4,
+    "expected_rgb": [
+      0,
+      0,
+      255
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 5,
+    "expected_rgb": [
+      0,
+      255,
+      255
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 6,
+    "expected_rgb": [
+      255,
+      0,
+      255
+    ],
+    "whole_frame_solid": true
+  },
+  {
+    "dead_pattern": 7,
+    "expected_rgb": [
+      255,
+      255,
+      0
+    ],
+    "whole_frame_solid": true
+  }
+]

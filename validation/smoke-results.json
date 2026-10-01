@@ -1,0 +1,62 @@
+[
+  {
+    "tool": "dead",
+    "left_right_roundtrip_equal": true,
+    "clean_pixel": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "tool": "backlight",
+    "left_right_roundtrip_equal": true,
+    "clean_pixel": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "tool": "color",
+    "left_right_roundtrip_equal": true,
+    "clean_pixel": [
+      255,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "tool": "gradient",
+    "left_right_roundtrip_equal": true,
+    "clean_pixel": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "tool": "overscan",
+    "left_right_roundtrip_equal": true,
+    "clean_pixel": [
+      255,
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "tool": "uniformity",
+    "left_right_roundtrip_equal": true,
+    "clean_pixel": [
+      255,
+      255,
+      255,
+      255
+    ]
+  }
+]
