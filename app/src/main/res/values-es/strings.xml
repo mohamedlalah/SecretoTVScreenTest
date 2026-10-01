@@ -25,10 +25,18 @@
     <string name="about_sub">Información de la app y del desarrollador</string>
 
     <!-- Support -->
-    <string name="support">Apoyar al desarrollador</string>
-    <string name="support_sub">Apoya los proyectos SecretoTools</string>
-    <string name="support_title">Apoyar al desarrollador</string>
-    <string name="support_message">Si esta aplicación te resulta útil, puedes apoyar el desarrollo de futuros proyectos de SecretoTools.</string>
+    <string name="support">Ayuda y soporte</string>
+    <string name="support_sub">Ayuda, soporte e información de privacidad</string>
+    <string name="support_title">Ayuda y soporte</string>
+
+    <string name="support_message">Obtén ayuda con Secreto TV Screen Test y accede a la información oficial de soporte y privacidad.</string>
+    <string name="support_page_description">Visita la página oficial de soporte de SecretoTools para obtener ayuda, solucionar problemas y consultar las preguntas frecuentes.</string>
+    <string name="open_support">Abrir soporte de SecretoTools</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="open_privacy_policy">Abrir la política de privacidad</string>
+    <string name="official_resources">Recursos oficiales de SecretoTools</string>
+
+    <!-- GitHub Edition support -->
     <string name="youtube_membership">Membresía de YouTube</string>
     <string name="youtube_membership_sub">Únete a la membresía del canal Secretofnet</string>
     <string name="scan_qr">Escanea este código QR con tu teléfono para unirte</string>

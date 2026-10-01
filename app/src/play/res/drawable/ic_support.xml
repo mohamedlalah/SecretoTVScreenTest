@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Help circle -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M24,4 A20,20 0,1 1,24,44 A20,20 0,1 1,24,4" />
+
+    <!-- Question mark -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M18,18 C18,14.7 20.7,12 24,12 C27.3,12 30,14.7 30,18 C30,22 24,22 24,27" />
+
+    <!-- Question mark dot -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M24,32 m-2,0 a2,2 0,1 0,4 0 a2,2 0,1 0,-4 0" />
+
+</vector>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GitHub Edition support overrides -->
+    <string name="support">Apoyar al desarrollador</string>
+    <string name="support_sub">Apoya los proyectos de SecretoTools</string>
+    <string name="support_title">Apoyar al desarrollador</string>
+
+    <string name="support_message">Si te gusta Secreto TV Screen Test y quieres apoyar el desarrollo independiente, puedes unirte a la membresía del canal de YouTube Secretofnet.</string>
+
+    <string name="youtube_membership">Membresía de YouTube</string>
+    <string name="youtube_membership_sub">Únete a la membresía del canal Secretofnet</string>
+    <string name="scan_qr">Escanea este código QR con tu teléfono para unirte</string>
+    <string name="support_optional">El apoyo es completamente opcional. Gracias por apoyar el desarrollo independiente.</string>
+
+</resources>

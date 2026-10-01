@@ -5,6 +5,7 @@ plugins {
 
 android {
     namespace = "com.secreto.tvscreentest"
+
     compileSdk {
         version = release(37) {
             minorApiLevel = 0
@@ -17,7 +18,18 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "1.0.0"
+    }
 
+    flavorDimensions += "distribution"
+
+    productFlavors {
+        create("github") {
+            dimension = "distribution"
+        }
+
+        create("play") {
+            dimension = "distribution"
+        }
     }
 
     buildTypes {
@@ -27,10 +39,12 @@ android {
             }
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+
     buildFeatures {
         compose = true
     }
@@ -47,8 +61,10 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.tv.foundation)
     implementation(libs.androidx.tv.material)
+
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
+
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
 }

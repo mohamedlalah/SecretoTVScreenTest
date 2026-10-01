@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GitHub Edition support overrides -->
+    <string name="support">Support the Developer</string>
+    <string name="support_sub">Support SecretoTools projects</string>
+    <string name="support_title">Support the Developer</string>
+
+    <string name="support_message">If you enjoy Secreto TV Screen Test and want to support independent development, you can join the Secretofnet YouTube channel membership.</string>
+
+</resources>

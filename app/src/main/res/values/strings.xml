@@ -25,10 +25,18 @@
     <string name="about_sub">App information and developer</string>
 
     <!-- Support -->
-    <string name="support">Support the Developer</string>
-    <string name="support_sub">Support SecretoTools projects</string>
-    <string name="support_title">Support the Developer</string>
-    <string name="support_message">If you find this app useful, you can support the development of future SecretoTools projects.</string>
+    <string name="support">Support &amp; Help</string>
+    <string name="support_sub">Help, support and privacy information</string>
+    <string name="support_title">Support &amp; Help</string>
+
+    <string name="support_message">Get help with Secreto TV Screen Test and access official support and privacy information.</string>
+    <string name="support_page_description">Visit the official SecretoTools support page for help, troubleshooting and frequently asked questions.</string>
+    <string name="open_support">Open SecretoTools Support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="open_privacy_policy">Open Privacy Policy</string>
+    <string name="official_resources">Official SecretoTools resources</string>
+
+    <!-- GitHub Edition support -->
     <string name="youtube_membership">YouTube Membership</string>
     <string name="youtube_membership_sub">Join the Secretofnet channel membership</string>
     <string name="scan_qr">Scan this QR code with your phone to join</string>

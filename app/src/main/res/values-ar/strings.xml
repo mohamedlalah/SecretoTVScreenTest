@@ -25,14 +25,13 @@
     <string name="about_sub">معلومات التطبيق والمطور</string>
 
     <!-- Support -->
-    <string name="support">دعم المطور</string>
-    <string name="support_sub">ساهم في دعم مشاريع SecretoTools</string>
-    <string name="support_title">دعم المطور</string>
-    <string name="support_message">إذا كان هذا التطبيق مفيدًا لك، يمكنك دعم تطوير مشاريع SecretoTools المستقبلية.</string>
-    <string name="youtube_membership">عضوية YouTube</string>
-    <string name="youtube_membership_sub">انضم إلى عضوية قناة Secretofnet</string>
-    <string name="scan_qr">امسح رمز QR بهاتفك للانضمام</string>
-    <string name="support_optional">الدعم اختياري بالكامل. شكرًا لمساهمتك في دعم التطوير المستقل.</string>
+    <string name="support">الدعم والمساعدة</string>
+    <string name="support_sub">المساعدة والدعم الرسمي من SecretoTools</string>
+    <string name="support_title">الدعم والمساعدة</string>
+    <string name="support_message">هل تحتاج إلى مساعدة في Secreto TV Screen Test؟</string>
+    <string name="support_page_description">تفضل بزيارة صفحة الدعم الرسمية لـ SecretoTools للحصول على المساعدة، وحلول المشاكل، وإجابات عن الأسئلة الشائعة.</string>
+    <string name="open_support">فتح دعم SecretoTools</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
 
     <string name="home_hint">استخدم الأسهم للتنقل · OK للفتح</string>
     <string name="inspection_note">للفحص البصري فقط. لا يشخّص هذا التطبيق حالة الشاشة ولا يصادق عليها.</string>
