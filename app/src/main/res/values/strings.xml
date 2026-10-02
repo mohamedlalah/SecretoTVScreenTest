@@ -37,8 +37,6 @@
     <string name="official_resources">Official SecretoTools resources</string>
 
     <!-- GitHub Edition support -->
-    <string name="youtube_membership">YouTube Membership</string>
-    <string name="youtube_membership_sub">Join the Secretofnet channel membership</string>
     <string name="scan_qr">Scan this QR code with your phone to join</string>
     <string name="support_optional">Support is completely optional. Thank you for supporting independent development.</string>
 

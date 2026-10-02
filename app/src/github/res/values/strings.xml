@@ -8,4 +8,7 @@
 
     <string name="support_message">If you enjoy Secreto TV Screen Test and want to support independent development, you can join the Secretofnet YouTube channel membership.</string>
 
+    <string name="youtube_membership">YouTube Membership</string>
+    <string name="youtube_membership_sub">Join the Secretofnet channel membership</string>
+
 </resources>

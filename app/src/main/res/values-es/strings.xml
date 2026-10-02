@@ -37,8 +37,6 @@
     <string name="official_resources">Recursos oficiales de SecretoTools</string>
 
     <!-- GitHub Edition support -->
-    <string name="youtube_membership">Membresía de YouTube</string>
-    <string name="youtube_membership_sub">Únete a la membresía del canal Secretofnet</string>
     <string name="scan_qr">Escanea este código QR con tu teléfono para unirte</string>
     <string name="support_optional">El apoyo es completamente opcional. Gracias por apoyar el desarrollo independiente.</string>
 
