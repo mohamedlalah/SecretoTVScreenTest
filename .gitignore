@@ -29,3 +29,7 @@ key.properties
 
 # Local release outputs
 app/release/
+
+# GitHub flavor local release outputs
+app/github/release/
+app/github/.DS_Store
